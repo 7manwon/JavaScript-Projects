@@ -6,4 +6,3 @@
 
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Stopwatch"> Stopwatch </a>
 
-ㅇㅈㅁㅇㅁㅈ
