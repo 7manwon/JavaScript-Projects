@@ -10,5 +10,5 @@
 
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Digital%20Clock%20Theme"> Digital Clock Theme </a>
 
-<a href = "#"> Todo List </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Todo%20List"> Todo List </a>
 
