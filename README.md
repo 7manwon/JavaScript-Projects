@@ -12,3 +12,9 @@
 
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Todo%20List"> Todo List </a>
 
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Dark%20Mode%20Toggle"> Dark Mode Toggle </a>
+
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Dice%20Roll%20Simulator"> Dice Roll Simulator </a>
+
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Double%20Landing%20Page"> Double Landing Page </a>
+
