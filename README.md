@@ -18,3 +18,9 @@
 
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Double%20Landing%20Page"> Double Landing Page </a>
 
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Dice%20Rolle"> Dice Rolle </a>
+
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Color_Picker"> Color_Picker </a>
+
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Color%20Game"> Color Game </a>
+
