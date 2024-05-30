@@ -1,14 +1,14 @@
-<a href = ""> 01 - Drum Kit </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Drum%20Kit"> 01 - Drum Kit </a>
 
-<a href = ""> 02 - Clock </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Clock"> 02 - Clock </a>
 
-<a href = ""> 03 - Random Color Generator </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Random%20Color%20Generator"> 03 - Random Color Generator </a>
 
-<a href = ""> 04 - Digital Clock </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Digital%20Clock"> 04 - Digital Clock </a>
 
-<a href = ""> 05 - Random Password Generator </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Random%20Password%20Generator"> 05 - Random Password Generator </a>
 
-<a href = ""> 06 - Calendar </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Calendar"> 06 - Calendar </a>
 
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Stopwatch"> 07 - Stopwatch </a>
 
