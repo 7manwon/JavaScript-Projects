@@ -33,3 +33,9 @@
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Dice%20Rolle"> 17 - Dice Rolle </a>
 
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Color_Picker"> 18 - Color_Picker </a>
+
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Progress%20Step"> Progress Step </a>
+
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Project%20note%20app"> Project note app </a>
+
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Live%20User%20Filter"> Live User Filter </a>
