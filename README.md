@@ -45,3 +45,13 @@
 <a href = ""> 23 - Decimal To Binary </a>
 
 <a href = ""> 24 - Tic Tac Toe </a>
+
+<a href = ""> 25 - Stopwatch </a>
+
+<a href = ""> 26 - Traffic Lights </a>
+
+<a href = ""> 27 - Levitate Board </a>
+
+<a href = ""> 28 - Dynamic Form Field </a>
+
+<a href = ""> 29 - Text Speed Control </a>
