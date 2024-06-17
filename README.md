@@ -55,3 +55,17 @@
 <a href = ""> 28 - Dynamic Form Field </a>
 
 <a href = ""> 29 - Text Speed Control </a>
+
+<a href = ""> 30 - Pop The Balloons </a>
+
+<a href = ""> 31 - Drawing Pad </a>
+
+<a href = ""> 32 - Weather App </a>
+
+<a href = ""> 33 - Memory Matching Game </a>
+
+<a href = ""> 34 - Music Player </a>
+
+<a href = ""> 35 - Key Code </a>
+
+<a href = ""> 36 - Simple Form Validation </a>
