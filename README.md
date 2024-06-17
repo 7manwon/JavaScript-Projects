@@ -68,4 +68,4 @@
 
 <a href = ""> 35 - Key Code </a>
 
-<a href = ""> 36 - Simple Form Validation </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/36%20-%20Simple%20Form%20Validation"> 36 - Simple Form Validation </a>
