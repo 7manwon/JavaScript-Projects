@@ -69,3 +69,5 @@
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/35%20-%20Key%20Code"> 35 - Key Code </a>
 
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/36%20-%20Simple%20Form%20Validation"> 36 - Simple Form Validation </a>
+
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/37%20-%20Lorem%20Ipsum%20Generate"> 37 - Lorem Ipsum Generate </a>
