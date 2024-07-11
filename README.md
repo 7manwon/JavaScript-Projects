@@ -56,15 +56,15 @@
 
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Text%20Speed%20Control"> 29 - Text Speed Control </a>
 
-<a href = ""> 30 - Wave Effect </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/30%20-%20Wave%20Effect"> 30 - Wave Effect </a>
 
-<a href = ""> 31 - Drawing Pad </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Drawing%20Pad"> 31 - Drawing Pad </a>
 
-<a href = ""> 32 - Weather App </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Weather%20App"> 32 - Weather App </a>
 
-<a href = ""> 33 - Memory Matching Game </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Memory%20Matching%20Game"> 33 - Memory Matching Game </a>
 
-<a href = ""> 34 - Music Player </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Music%20Player"> 34 - Music Player </a>
 
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/35%20-%20Key%20Code"> 35 - Key Code </a>
 
