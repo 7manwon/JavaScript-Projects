@@ -54,9 +54,9 @@
 
 <a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Dynamic%20Form%20Field"> 28 - Dynamic Form Field </a>
 
-<a href = ""> 29 - Text Speed Control </a>
+<a href = "https://github.com/7manwon/JavaScript-Projects/tree/main/Text%20Speed%20Control"> 29 - Text Speed Control </a>
 
-<a href = ""> 30 - Pop The Balloons </a>
+<a href = ""> 30 - Wave Effect </a>
 
 <a href = ""> 31 - Drawing Pad </a>
 
